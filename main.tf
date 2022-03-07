@@ -1,5 +1,5 @@
 provider "aws" {
- region = "ap-northeast-2"            //서울리전
+ region = "ap-northeast-2"            //서울리전.
  access_key = var.access_key_var
  secret_key = var.secret_key_var
 }
