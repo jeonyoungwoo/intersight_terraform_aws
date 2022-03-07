@@ -34,3 +34,4 @@ resource "aws_instance" "helloworld4" {
   tags = {
     Name = var.tags_var
   }
+}
