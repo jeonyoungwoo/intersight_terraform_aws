@@ -8,7 +8,7 @@ provider "aws" {
  #region ="ap-southeast" //아시아-자가르타
  #region ="ap-south" //아시아-뭄바이
  #region ="ap-northeast-3" //아시아-오사카
- region = "ap-northeast-2"            //아시아-
+ region = "ap-northeast-2" //아시아-서울
  #region ="ap-sortheast-1" //아시아-싱가포르
  #region ="ap-sortheast-2" //아시아-시드니
  #region ="ap-northeast-2" //아시아-도쿄
